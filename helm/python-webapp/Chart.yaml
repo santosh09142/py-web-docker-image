@@ -1,0 +1,6 @@
+apiVersion: v2
+name: my-python-webapp
+description: Python Flask Web Application
+type: application
+version: 0.1.0
+appVersion: "1.0"
